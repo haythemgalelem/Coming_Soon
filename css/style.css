@@ -1,0 +1,67 @@
+/* Start
+---------------------------------- */
+body {
+    font:15px tahoma;
+    color: #fff;
+    text-align: center;
+}
+
+
+/* Start Header */
+header {
+    background-color: #000000;
+    width: 100%;
+    overflow: hidden;
+}
+.about {
+    overflow: hidden;
+    position: relative;
+}
+.about .text {
+    font-family: raleway-black;
+    color: #1dabb8;
+    font-size: 35px;
+}
+.about p {
+    color: #d9d9d9;
+    font-family: raleway-regular;
+    margin-top: 5px;
+    font-size: 15px;
+}
+.copyright {
+    position: absolute;
+    bottom: 13px;
+    left: 0;
+    width: 100%;
+    font-family: raleway-thin;
+    font-size: 16px;
+}
+.social a {
+    display: inline-block;
+    width: 30px;
+    text-align: center;
+    font-size: 14px;
+    height: 30px;
+    line-height: 30px;
+    margin-right: 5px;
+    color: #fff;
+    border-radius: 50%;
+}
+.facebook {background: #3b5998;}
+.behance {background: #1769ff;}
+.youtube {background: #ea4c89;}
+.twitter {background: #55acee;}
+.instagram {  background: #f09433; 
+background: -moz-linear-gradient(45deg, #f09433 0%, #e6683c 25%, #dc2743 50%, #cc2366 75%, #bc1888 100%); 
+background: -webkit-linear-gradient(45deg, #f09433 0%,#e6683c 25%,#dc2743 50%,#cc2366 75%,#bc1888 100%); 
+background: linear-gradient(45deg, #f09433 0%,#e6683c 25%,#dc2743 50%,#cc2366 75%,#bc1888 100%); 
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f09433', endColorstr='#bc1888',GradientType=1 );
+  }}
+/* End Header */
+
+.cbalink {
+    display: none;
+  }
+
+/* End
+---------------------------------- */
